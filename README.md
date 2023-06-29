@@ -1,5 +1,6 @@
 ### Hola  (•◡•) / 👋
 
+ Programo en Java, JavaScript, TypeScript, Python y con ganas de aumentar el Stack!
 <!--
 **JaviCaiola/JaviCaiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
