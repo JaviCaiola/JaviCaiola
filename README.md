@@ -1,10 +1,11 @@
-![imagen github optimizada](https://github.com/JaviCaiola/JaviCaiola/assets/114126710/9d01f5fe-0e3a-4eee-a5a9-73221d0689a5)
+![imagen github optimizada](https://github.com/JaviCaiola/JaviCaiola/assets/114126710/61888a1d-6ad4-4981-b80d-5a92b44bf17d)
 
 # Hola  (•◡•) / 👋
 
- ##### Programo en Java, JavaScript, TypeScript, Python y con ganas de aumentar el Stack!
+##### Programo en Java, JavaScript, TypeScript, Python y con ganas de aumentar el Stack!
  FrameWorks: Spring Boot, Angular, Node.js 
 ##### Actualmente Estudiando en la Facultad de Ingenieria y en Digital House, todo relacionado a la programacion.
+  
 
  
 <!--
