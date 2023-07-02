@@ -1,4 +1,4 @@
-![imagen github](https://github.com/JaviCaiola/JaviCaiola/assets/114126710/1aaa422d-b97d-4209-9167-eef848e1cc24)
+![imagen github optimizada](https://github.com/JaviCaiola/JaviCaiola/assets/114126710/9d01f5fe-0e3a-4eee-a5a9-73221d0689a5)
 
 # Hola  (•◡•) / 👋
 
