@@ -1,3 +1,5 @@
+![imagen github](https://github.com/JaviCaiola/JaviCaiola/assets/114126710/1aaa422d-b97d-4209-9167-eef848e1cc24)
+
 # Hola  (•◡•) / 👋
 
  ##### Programo en Java, JavaScript, TypeScript, Python y con ganas de aumentar el Stack!
