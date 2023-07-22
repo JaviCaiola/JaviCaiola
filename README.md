@@ -5,6 +5,10 @@
 #### Programo en Java, JavaScript, TypeScript, Python y con ganas de aumentar el Stack!
 #### FrameWorks: Spring Boot, Angular, Node.js 
 #### En busca de proyectos interesantes los cuales realizar, y siempre a disposicion para colaborar juntos, no dudes en contactar!
+#### :) 
+####
+####
+####
   
 
  
