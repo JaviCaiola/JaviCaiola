@@ -7,3 +7,7 @@ aqui van cositas
 
 
 https://onedrive.live.com/?authkey=%21AJswqCl5lFkayMg&id=root&cid=25E36E0901886836&qt=sharedby
+  
+## Update semanal - week 1  
+Se espera entregar una nueva version cada semana que contenga nuevas funcionalidades y completar las secciones faltantes, el proyecto se espera retomar lo antes posible asi poder dar una fecha de entrega con el producto final con todas sus caracteristicas funcionales  
+en primera instancia completar el apartado visual que contenga las animaciones deseadas y poder optimizar lo mas que se pueda sin perder calidad, por consiguiente terminar el sistema de gestion de usuarios, que actualmente se encuentra en fase actualizacion a la espera de mejorar de seguridad y autenticacion
