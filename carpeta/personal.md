@@ -13,7 +13,7 @@ Se espera entregar una nueva version cada semana que contenga nuevas funcionalid
 en primera instancia completar el apartado visual que contenga las animaciones deseadas y poder optimizar lo mas que se pueda sin perder calidad, por consiguiente terminar el sistema de gestion de usuarios, que actualmente se encuentra en fase actualizacion a la espera de mejorar de seguridad y autenticacion
   
 ### OBJETIVOS WEEK 1:  
-- Iniciar compoenente de servicios
-- Cambio de colores a los predefinidos
-- Apartado visual del dashboard
-- servicio local con JSON para usuarios locales (No ira en produccion)
+- Iniciar compoenente de servicios  
+- Cambio de colores a los predefinidos  
+- Apartado visual del dashboard  
+- servicio local con JSON para usuarios locales (No ira en produccion)  
