@@ -11,9 +11,9 @@ https://onedrive.live.com/?authkey=%21AJswqCl5lFkayMg&id=root&cid=25E36E09018868
 ## Update semanal - week 1  
 Se espera entregar una nueva version cada semana que contenga nuevas funcionalidades y completar las secciones faltantes, el proyecto se espera retomar lo antes posible asi poder dar una fecha de entrega con el producto final con todas sus caracteristicas funcionales  
 en primera instancia completar el apartado visual que contenga las animaciones deseadas y poder optimizar lo mas que se pueda sin perder calidad, por consiguiente terminar el sistema de gestion de usuarios, que actualmente se encuentra en fase actualizacion a la espera de mejorar de seguridad y autenticacion
-
+  
 ### OBJETIVOS WEEK 1:  
--Iniciar compoenente de servicios
--Cambio de colores a los predefinidos
--Apartado visual del dashboard
--servicio local con JSON para usuarios locales (No ira en produccion)
+- Iniciar compoenente de servicios
+- Cambio de colores a los predefinidos
+- Apartado visual del dashboard
+- servicio local con JSON para usuarios locales (No ira en produccion)
