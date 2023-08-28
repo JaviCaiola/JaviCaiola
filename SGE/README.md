@@ -11,3 +11,5 @@ en primera instancia completar el apartado visual que contenga las animaciones d
 - Cambio de colores a los predefinidos  
 - Apartado visual del dashboard  
 - servicio local con JSON para usuarios locales (No ira en produccion)  
+
+## Sprint 2
