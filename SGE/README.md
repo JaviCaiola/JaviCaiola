@@ -13,3 +13,9 @@ en primera instancia completar el apartado visual que contenga las animaciones d
 - servicio local con JSON para usuarios locales (No ira en produccion)  
 
 ## Sprint 2
+Objetivos: implementacion de JSON Token en el back end de usuarios- testeo en postman
+Proteccion y encriptacion de datos almacenados
+seguridad de credenciales
+
+### Listado Sprint 2
+- 
