@@ -18,4 +18,8 @@ Proteccion y encriptacion de datos almacenados
 seguridad de credenciales
 
 ### Listado Sprint 2
-- 
+- Generacion automatica de token
+- Clave secreta
+- modelos actualizados y adaptados al nuevo sistema
+- endopoints de autorizacion
+- test en postman
