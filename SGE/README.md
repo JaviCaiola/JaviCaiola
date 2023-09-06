@@ -1,4 +1,4 @@
-# Informe de proyecto front end SGE
+# Front-End & Back-End SGE Sprints e info   
 
 https://onedrive.live.com/?authkey=%21AJswqCl5lFkayMg&id=root&cid=25E36E0901886836&qt=sharedby
   
@@ -24,5 +24,15 @@ seguridad de credenciales
 - endopoints de autorizacion
 - test en postman
 
-## Sprint 3
+## Sprint 3   
+Objetivos: Consumo de servicios (users)   
+>Servicio de Usuarios construido en Spring Boot
+>implementacion de metodos de respuesta y envio HTTP
+>metodos para la manipulacion de datos
+>vista de datos en el dashboard de administracion
+
 ### Listado Sprint 3
+- Configurar proxy server para los CORS
+- Configurar endpoints en el service
+- Ajustar al template html para que se vuelva dinamico
+
