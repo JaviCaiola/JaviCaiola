@@ -2,7 +2,7 @@
 
 https://onedrive.live.com/?authkey=%21AJswqCl5lFkayMg&id=root&cid=25E36E0901886836&qt=sharedby
   
-## Sprint 1
+## Sprint 1 [ago/2023]
 Listado de tareas pendientes a completar y futura proyeccion del primer MVP
 en primera instancia completar el apartado visual que contenga las animaciones deseadas y poder optimizar lo mas que se pueda sin perder calidad, por consiguiente terminar el sistema de gestion de usuarios, que actualmente se encuentra en fase actualizacion a la espera de mejorar de seguridad y autenticacion
   
@@ -12,7 +12,7 @@ en primera instancia completar el apartado visual que contenga las animaciones d
 - Apartado visual del dashboard  
 - servicio local con JSON para usuarios locales (No ira en produccion)  
 
-## Sprint 2
+## Sprint 2 [ago/2023]
 Objetivos: implementacion de JSON Token en el back end de usuarios- testeo en postman
 Proteccion y encriptacion de datos almacenados
 seguridad de credenciales
@@ -24,7 +24,7 @@ seguridad de credenciales
 - endopoints de autorizacion
 - test en postman
 
-## Sprint 3   
+## Sprint 3 [ago/2023]   
 Objetivos: Consumo de servicios (users)   
 >Servicio de Usuarios construido en Spring Boot   
 >implementacion de metodos de respuesta y envio HTTP   
@@ -36,7 +36,7 @@ Objetivos: Consumo de servicios (users)
 - Configurar endpoints en el service
 - Ajustar al template html para que se vuelva dinamico
 
-## Sprint 4   
+## Sprint 4 [sept/2023]   
 Objetivos: Consumo de servicios (Clima)    
 Similar al sprint anterior se consumira el servicio de clima de metheored    
 que solo tendran acceso la parte de administración    
