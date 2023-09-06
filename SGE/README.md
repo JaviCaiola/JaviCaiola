@@ -26,10 +26,10 @@ seguridad de credenciales
 
 ## Sprint 3   
 Objetivos: Consumo de servicios (users)   
->Servicio de Usuarios construido en Spring Boot
->implementacion de metodos de respuesta y envio HTTP
->metodos para la manipulacion de datos
->vista de datos en el dashboard de administracion
+>Servicio de Usuarios construido en Spring Boot   
+>implementacion de metodos de respuesta y envio HTTP   
+>metodos para la manipulacion de datos   
+>vista de datos en el dashboard de administracion   
 
 ### Listado Sprint 3
 - Configurar proxy server para los CORS
