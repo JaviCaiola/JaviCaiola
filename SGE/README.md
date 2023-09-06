@@ -36,3 +36,10 @@ Objetivos: Consumo de servicios (users)
 - Configurar endpoints en el service
 - Ajustar al template html para que se vuelva dinamico
 
+## Sprint 4   
+Objetivos: Consumo de servicios (Clima)    
+Similar al sprint anterior se consumira el servicio de clima de metheored    
+que solo tendran acceso la parte de administración    
+el listado de tareas esta basado en el de la sprint anterior
+
+
