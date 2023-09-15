@@ -41,5 +41,7 @@ Objetivos: Consumo de servicios (Clima)
 Similar al sprint anterior se consumira el servicio de clima de metheored    
 que solo tendran acceso la parte de administración    
 el listado de tareas esta basado en el de la sprint anterior
-
+    
+## ------------- Sprint 5 ------------- [oct/2023]
+not defined
 
