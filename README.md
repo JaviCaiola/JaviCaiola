@@ -6,6 +6,6 @@
 #### FrameWorks: Spring Boot, Angular, Node.js 
 #### En busca de proyectos interesantes los cuales realizar, y siempre a disposicion para colaborar juntos, no dudes en contactar!
 #### :) 
-#### working in progress
+#### im back!
 ####
 ####
