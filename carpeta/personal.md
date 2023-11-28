@@ -8,4 +8,6 @@ Proyecto SGE: Consolidar informe gia para la creacion de servidor de host para l
 Notas 15/11/23: Fecha de final POO para el viernes 17 - clase 50 Asincronico playground - clase 41 sincronico (React introduccion y componentes) - definicion de proyectos para el paron opciones [aplicacion runner. aplicacion de lectura de archivos pdf + sistema de notacion, aplicacion prueba de React, Juego plataforma en Phaser, pagina tributo, blog de ing automotor]     
 Proyecto SGE: planear implementacion del sistema de Vistas en los articulos y noticias del la aplicacion, desde los registros en la base de datos, y los metodos para su modificacion.    
 
-Notas 16/12/23: sin definicion de proyectos paron - clase 51 asincronico playground - preparacion de final POO - practicas de react props, keyprops, estilos en react - Revisando las novedades de Angular 17 y planificando futuras implementaciones en diversos proyectos.
+Notas 16/11/23: sin definicion de proyectos paron - clase 51 asincronico playground - preparacion de final POO - practicas de react props, keyprops, estilos en react - Revisando las novedades de Angular 17 y planificando futuras implementaciones en diversos proyectos.
+
+Notas 27/11/23: 
