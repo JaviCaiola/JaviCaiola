@@ -46,6 +46,13 @@ INTERNET INFORMATION SERVICE (IIS).
 5. **Prueba tu sitio web:**
    - Abre un navegador web e ingresa la dirección IP de tu máquina seguida por el número de puerto que asignaste al sitio web (por ejemplo, `http://localhost` o `http://localhost:80`).
 
-Estos pasos básicos te permitirán configurar un sitio web local utilizando IIS en Windows. Recuerda que los detalles pueden variar dependiendo de tus necesidades específicas y la versión de Windows que estés utilizando.
+Estos pasos básicos te permitirán configurar un sitio web local utilizando IIS en Windows. Recuerda que los detalles pueden variar dependiendo de tus necesidades específicas y la versión de Windows que estés utilizando.    
+
+MAS DOMINIOS
+Freenom: Ofrece dominios gratuitos con extensiones como .tk, .ml, .ga, .cf, .gq. Sin embargo, estos dominios gratuitos pueden tener ciertas restricciones y a veces se utilizan para redireccionar tráfico a páginas publicitarias.
+
+Dot.tk: Es parte de Freenom y ofrece dominios con extensión .tk de forma gratuita.
+
+InfinityFree: Ofrece servicios de alojamiento web gratuito y también proporciona dominios gratuitos con extensiones .epizy.com o .rf.gd para sus clientes.
 
 
