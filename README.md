@@ -2,10 +2,10 @@
 
 # Hola  (•◡•) / 👋
 
-#### Programo en Java, JavaScript, TypeScript, Python y aumentando el stack! 
+#### Desarrollador web Full Stack 🧰
 #### FrameWorks: Spring Boot, Angular, Node.js 
 #### En busca de proyectos interesantes los cuales realizar, y siempre a disposicion para colaborar juntos, no dudes en contactar!
-#### :) 
-#### im back!
+#### 
 ####
-####ooohohhoohh
+####
+####
